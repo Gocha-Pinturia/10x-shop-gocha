@@ -1,0 +1,6 @@
+{
+  "name": "10X Shop",
+  "description": "Modern e-commerce online store built with React 19, TypeScript, and Tailwind CSS v4 featuring catalog, search, filtering, product details, cart, checkout simulation, and order tracking powered by DummyJSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
