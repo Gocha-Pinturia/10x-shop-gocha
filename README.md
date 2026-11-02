@@ -146,6 +146,7 @@ To evaluate the authenticated experience, use the provided credentials or click 
 
 ## Live Demo
 - **Preview Application**: Available in the development environment at port 3000.
+https://prd-exam.vercel.app/
 
 ---
 
